@@ -1,6 +1,6 @@
 
-## Hi there 👋
 
+![logo](https://i.imgur.com/Gh2WLyE.jpeg)
 <h1 align="center">Hi 👋, I'm Debjit Das</h1>
 <h3 align="center">Full-Stack Developer | Machine Learning Enthusiast | Crafting Intelligent and Scalable Solutions</h3>
 
