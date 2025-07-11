@@ -1,73 +1,68 @@
-![logo](https://i.imgur.com/Gh2WLyE.jpeg)
-<h1 align="center">Hi 👋, I'm Debjit Das</h1>
-<h3 align="center">Full-Stack Developer | Machine Learning Enthusiast | Crafting Intelligent and Scalable Solutions</h3>
+<h1 align="center">Hi there 👋, I'm Debjit Das</h1>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=debjit11&label=Profile%20views&color=0e75b6&style=flat" alt="debjit11" /> </p>
-
----
-
-### 🌟 About Me
-
-- 🌱 **Currently Learning:** Machine Learning, Advanced Python, and Scalable System Design  
-- 💻 **Skills:** Full-Stack Development, Machine Learning, and AI-based Systems  
-- 📧 **Contact:** ddebjit421@gmail.com  
-- ⚡ **Fun Fact:** I find coding relaxing and problem-solving exhilarating 😄  
-
----
-
-### 🏅 GitHub Achievements
-
-<p align="left">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark" width="80"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" alt="Quickdraw" width="80"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+Engineering+Student;Web+%7C+AI+%7C+ML+Developer;Flask+%7C+Python+%7C+Full+Stack;Love+Hackathons+%26+Tech+Events!" alt="Typing SVG" />
 </p>
+
+---
+
+### 📌 About Me
+
+- 🎓 2nd Year B.Tech CSE (AI & ML) student  
+- 👨‍💻 Actively building projects in Python, Flask, and ML  
+- 🚀 Finalist in Hackathons like Smart India Hackathon & College Hackathons  
+- 📚 Always learning something new and exploring tech  
+- 🏡 From: Kolkata, West Bengal 🇮🇳  
 
 ---
 
 ### 🌐 Connect with Me
 
-<p align="left">
-  <a href="https://twitter.com/debjitdas929990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/debjit-das-7a028128a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://instagram.com/debjitdas_im" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/@computer-detective." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/debjit11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
+<p>
+  <a href="https://www.linkedin.com/in/debjit-das-7a028128a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://x.com/DebjitDas929990?t=2lgaNbZ-uwnpKyazMszDDw&s=09"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" /></a>
+  <a href="https://www.instagram.com/debjitdas_im?igsh=c2N6amxobTk1NWo="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" /></a>
+  <a href="http://youtube.com/@Computer-Detective"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube" /></a>
 </p>
 
 ---
 
-### 💼 Languages and Tools
+### 🛠️ Tech Stack
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
-</p>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
 ---
 
 ### 📈 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=debjit11&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=debjit11&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debjit11&" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=debjit11&show_icons=true&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debjit11&layout=compact&theme=tokyonight" height="180px"/>
 </p>
 
 ---
 
-### ✨ Additional Features
+### 🐍 GitHub Snake Game Contribution Graph
 
-- **Custom Badges**: Use shields.io for personalized stats or certifications  
-- **GitHub Trophy**: Add [GitHub Trophy](https://github.com/ryo-ma/github-profile-trophy) to highlight achievements  
-- **Contribution Graph**: Use [GitHub Activity Graph](https://github.com/Ashutosh00710/github-readme-activity-graph) for a colorful contribution chart  
+![snake gif](https://github.com/debjit11/debjit11/raw/output/github-snake.svg)
+
+---
+
+### ✨ Achievements
+
+- 🦈 Pull Shark (merged PRs)
+- 🤠 Quickdraw (quick PRs)
+- 💡 Developer Program Member
+- 🌟 GitHub PRO (via Student Pack or paid)
+
+---
+
+⭐ *Thanks for visiting my GitHub profile! Let's build something awesome together.*  
