@@ -1,68 +1,50 @@
-<h1 align="center">Hi there 👋, I'm Debjit Das</h1>
+<h1 align="center">Hey 👋, I'm Debjit Das</h1>
+
+<p align="center">2nd Year Computer Science Engineering Student | AI/ML Enthusiast | Web Dev Explorer</p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Science+Engineering+Student;Web+%7C+AI+%7C+ML+Developer;Flask+%7C+Python+%7C+Full+Stack;Love+Hackathons+%26+Tech+Events!" alt="Typing SVG" />
+  <a href="https://youtube.com/@Computer-Detective"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.instagram.com/debjitdas_im?igsh=c2N6amxobTk1NWo="><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/debjit-das-7a028128a/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://facebook.com"><img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://patreon.com"><img src="https://img.shields.io/badge/PATREON-F96854?style=for-the-badge&logo=patreon&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://stackoverflow.com"><img src="https://img.shields.io/badge/STACKOVERFLOW-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/></a>
+  <a href="https://dribbble.com"><img src="https://img.shields.io/badge/DRIBBBLE-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/CODEPEN-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
 </p>
 
 ---
 
-### 📌 About Me
-
-- 🎓 2nd Year B.Tech CSE (AI & ML) student  
-- 👨‍💻 Actively building projects in Python, Flask, and ML  
-- 🚀 Finalist in Hackathons like Smart India Hackathon & College Hackathons  
-- 📚 Always learning something new and exploring tech  
-- 🏡 From: Kolkata, West Bengal 🇮🇳  
-
----
-
-### 🌐 Connect with Me
-
-<p>
-  <a href="https://www.linkedin.com/in/debjit-das-7a028128a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://x.com/DebjitDas929990?t=2lgaNbZ-uwnpKyazMszDDw&s=09"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" /></a>
-  <a href="https://www.instagram.com/debjitdas_im?igsh=c2N6amxobTk1NWo="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" /></a>
-  <a href="http://youtube.com/@Computer-Detective"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube" /></a>
-</p>
-
----
-
-### 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-
----
-
-### 📈 GitHub Stats
+## 🐍 Snake Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=debjit11&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debjit11&layout=compact&theme=tokyonight" height="180px"/>
+  <img alt="Snake animation" src="https://github.com/debjit11/debjit11/raw/output/github-snake.svg"/>
 </p>
 
 ---
 
-### 🐍 GitHub Snake Game Contribution Graph
+## 💻 Tech Stack
 
-![snake gif](https://github.com/debjit11/debjit11/raw/output/github-snake.svg)
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+</p>
 
 ---
 
-### ✨ Achievements
-
-- 🦈 Pull Shark (merged PRs)
-- 🤠 Quickdraw (quick PRs)
-- 💡 Developer Program Member
-- 🌟 GitHub PRO (via Student Pack or paid)
-
----
-
-⭐ *Thanks for visiting my GitHub profile! Let's build something awesome together.*  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
