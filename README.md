@@ -92,3 +92,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" />
   </a>
 </p>
+<p align="center">
+  <img src="https://github.com/debjit11/debjit11/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
