@@ -95,4 +95,3 @@
 <p align="center">
   <img src="https://github.com/debjit11/debjit11/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-
