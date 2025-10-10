@@ -80,18 +80,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/debjit-das-7a028128a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" alt="LinkedIn" />
   </a>
   <a href="https://www.youtube.com/@DevMind7" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="48" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="48" alt="YouTube" />
   </a>
   <a href="https://www.instagram.com/imdebjit_das/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" alt="Instagram" />
   </a>
-  <a href="ddebjit421@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" />
+  <a href="mailto:ddebjit421@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" alt="Gmail" />
   </a>
 </p>
+
 <p align="center">
   <img src="https://github.com/debjit11/debjit11/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
