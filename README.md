@@ -64,13 +64,6 @@
 ---
 
 
-
-
-
-### 🎯 Fun GIF Zone
-
-
-
 ---
 
 ### 🌐 Let’s Connect
