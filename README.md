@@ -69,10 +69,7 @@
 
 ### 🎯 Fun GIF Zone
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="350" />
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="250" />
-</p>
+
 
 ---
 
