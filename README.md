@@ -1,10 +1,10 @@
-<!-- ================= HEADER BANNER ================= -->
+
 
 <p align="center">
   <img src="https://github.com/debjit11/debjit11/blob/main/github%20name.png" alt="Debjit Das Header" width="100%" />
 </p>
 
-<!-- ================= INTRO ================= -->
+
 
 <h1 align="center">Hi 👋, I'm Debjit Das</h1>
 
@@ -25,7 +25,7 @@
 - 🚀 Hackathon-driven learner (SIH | College Hackathons)
 - 🎯 Goal: Get into **top tech companies** & build my **own startup**
 
-> *"Code is my tool. Intelligence is my craft."*
+
 
 ---
 
@@ -33,17 +33,15 @@
 
 <p align="center">
 
-<!-- Programming Languages -->
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
 
-<!-- ML / Data -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40"/>
 
-<!-- Backend -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40"/>
 
