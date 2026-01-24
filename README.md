@@ -78,7 +78,7 @@
 
 ## 📚 Currently Learning
 
-- 🔹 Deep Learning & Neural Networks
+- 🔹 Machine Learning & Deep Learning & Neural Networks
 - 🔹 Large Language Models (LLMs)
 - 🔹 Generative AI & AI Agents
 - 🔹 ML System Design
@@ -104,7 +104,7 @@
 
 ## 🏅 Achievements
 
-- 🏆 Smart India Hackathon participant
+- 🏆 Smart India Hackathon Finalist
 - 🚀 Built multiple ML & CV projects
 - 🎓 B.Tech CSE (AI & ML) – 3rd Year
 - 💡 Active learner & open-source enthusiast
