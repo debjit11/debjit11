@@ -24,8 +24,6 @@
 - 🚀 Hackathon-driven learner (SIH | College Hackathons)
 - 🎯 Goal: Get into **top tech companies** & build my **own startup**
 
-
-
 ---
 
 ## 🚀 Tech Stack
