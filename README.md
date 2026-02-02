@@ -9,11 +9,13 @@
 
 
 <p align="center">
+  
   <img src="https://readme-typing-svg.demolab.com/?lines=Crafting+AI-driven+Futures;CSE+(AI/ML)+Student;Tech+Enthusiast;Full-Stack+%26+ML+Developer&font=Fira+Code&center=true&width=440&height=45&color=36BCF7&vCenter=true&pause=1000&size=22" />
 </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />
+  
 </p>
 
 ---
