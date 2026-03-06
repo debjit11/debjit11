@@ -142,5 +142,6 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/debjit11/debjit11/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  
+<img src="https://raw.githubusercontent.com/debjit11/debjit11/output/snake.svg" alt="Snake animation" />
 </p>
