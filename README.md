@@ -25,7 +25,7 @@
 - 🤖 AI & ML–focused CSE student passionate about **real-world problem solving**
 - 🧩 Love building **intelligent systems**, not just training models
 - 🚀 Hackathon-driven learner (SIH | College Hackathons)
-- 🎯 Goal: Get into **top tech companies** & build my **own startup**
+
 
 ---
 
@@ -88,11 +88,6 @@
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=debjit11&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debjit11&layout=compact&theme=tokyonight" height="160"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=debjit11&theme=tokyonight" height="160"/>
