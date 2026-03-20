@@ -68,13 +68,7 @@
 - Real-world ride-booking data insights  
 🔗 https://github.com/debjit11/Namma-Yatri-and-Uber-Analysis
 
-🧠 **AI-based Face Recognition System**
-- Computer Vision + ML
-- Hackathon prototype for Smart India Hackathon
 
-🎯 **Dartboard & Dart Detection**
-- OpenCV + contour detection
-- Real-time detection logic
 
 ---
 
