@@ -57,16 +57,6 @@
 
 ---
 
-## 🧩 Featured Projects
-
-🚖 **Namma Yatri vs Uber – Data Analysis**
-- Complete EDA, feature engineering & prediction
-- Real-world ride-booking data insights  
-🔗 https://github.com/debjit11/Namma-Yatri-and-Uber-Analysis
-
-
-
----
 
 ## 📚 Currently Learning
 
