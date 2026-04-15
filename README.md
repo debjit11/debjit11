@@ -23,7 +23,6 @@
 - 🧩 Love building **intelligent systems**, not just training models
 - 🚀 Hackathon-driven learner (SIH | College Hackathons)
 
-
 ---
 
 ## 🚀 Tech Stack
