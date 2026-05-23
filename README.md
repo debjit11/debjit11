@@ -83,10 +83,11 @@
 
 ## 🏅 Achievements
 
+- 🏆 2× Hackathon Winner
 - 🏆 Smart India Hackathon Finalist
 - 🚀 Built multiple ML & DL projects
 - 🎓 B.Tech CSE (AI & ML) – 3rd Year
-- 💡 Active learner & open-source enthusiast
+- 💡 Active learner & Open-Source Enthusiast
 
 ---
 
