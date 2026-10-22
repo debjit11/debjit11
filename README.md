@@ -67,7 +67,6 @@
 - 🔹 Large Language Models (LLMs)
 - 🔹 Generative AI & AI Agents
 - 🔹 ML System Design
-
 ---
 
 ## 📊 GitHub Stats
